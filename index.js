@@ -1,0 +1,1 @@
+﻿console.log('Project with a bunch of javascript examples!');

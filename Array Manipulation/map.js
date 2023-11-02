@@ -14,7 +14,6 @@ letters.map((item) => {
 });
 console.log(`Map iteration = ${newArray2}`);
 
-// Third method with map
+// Third method with map (Optimal one)
 const newArray3 = letters.map(item => item + '+1');
 console.log(newArray3);
-
